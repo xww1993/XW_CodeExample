@@ -12,5 +12,4 @@
 + (instancetype)loadFromStoryboard;
 + (instancetype)loadFromStoryboardWithGrowersName:(NSString *)growerName GrowerID:(NSString *)growerID GrowerRoleID:(NSString *)growerRoleID GrowerMenuId:(NSString *)growerMenuId;
 @end
-//老的田间管理可以删,但是可能用药其中的 Model 或者 View
-//你想要重新弄的话需要先备份下 ,然后一个区域一个区域删,
+
